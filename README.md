@@ -99,7 +99,7 @@
 - برای برنامه‌های وب مدرن از WSMux استفاده کنید
 - نسخه‌های **Mux** برای کاهش تاخیر و مصرف منابع مناسب‌اند
 
-<div align="center"> <img src="https://github.com/user-attachments/assets/5a5792c8-b101-45fc-8843-6dd419fc8f33" alt="معماری سیستم" width="800"> <p><em>نمایی از معماری پیشرفته سیستم</em></p> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/2984cfe7-84a1-4217-bce8-4e17802f60b7" alt="معماری سیستم" width="800"> <p><em>نمایی از سیستم</em></p> </div>
 
 
 ⚙️ تنظیمات بهینه
