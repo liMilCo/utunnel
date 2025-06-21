@@ -324,7 +324,7 @@ bash <(curl -s https://raw.githubusercontent.com/liMilCo/utunnel/refs/heads/main
 
 | شبکه         | نوع ارز       | آدرس کیف پول                              | آیکون       |
 |--------------|--------------|------------------------------------------|------------|
-| **Tron**     | TRX (TRC20)  | `THEQZLtEvK4Dm66xbUFh2nyRSSYCDiVeeX`     | <img src="https://cryptologos.cc/logos/tron-trx-logo.png" width="20"> |
+| **Tron**     | TRX (TRC20)  | `THEQZLtEvK4Dm66xbUFh2nyRSSYCDiVeeX`     | ❤️ |
 
 </div>
 
