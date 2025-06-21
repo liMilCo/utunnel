@@ -300,13 +300,13 @@ mux_con: تعداد کانکشن‌های مولتی‌پلکس (پیش‌فرض
 برای نصب این دستور را اجرا کنید
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/install_utunnel.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/liMilCo/utunnel/refs/heads/main/install_utunnel.sh --ipv4)
 ```
 
 🤖 نصب ربات تلگرام مونیتورینگ
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/aliamg1356/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
+bash <(curl -s https://raw.githubusercontent.com/liMilCo/utunnel/refs/heads/main/MonitorBotinstall.sh --ipv4)
 ```
 پس از اجرا:
 
